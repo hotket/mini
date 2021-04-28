@@ -1,4 +1,3 @@
-#
 # MT7621 Profiles
 #
 
