@@ -1,6 +1,5 @@
 # MT7621 Profiles
 #
-
 include ./common-tp-link.mk
 
 DEFAULT_SOC := mt7621
